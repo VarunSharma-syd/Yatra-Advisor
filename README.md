@@ -1,4 +1,14 @@
-# Getting Started with Create React App
+Yatra-Advisor
+
+Find out Restaurants, Hotel, Attractive Places near by to your current location as well as one can explore new places using search option.
+
+![image](https://user-images.githubusercontent.com/63140503/129513207-b39403ea-5f56-48f3-b837-8b18c3d2b268.png)
+![image](https://user-images.githubusercontent.com/63140503/129513235-20122c32-5c84-4b8f-8400-e74f9e437757.png)
+
+
+
+
+Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
