@@ -2,10 +2,9 @@ Yatra-Advisor
 
 Find out Restaurants, Hotel, Attractive Places near by to your current location as well as one can explore new places using search option.
 
-![image](https://user-images.githubusercontent.com/63140503/129513207-b39403ea-5f56-48f3-b837-8b18c3d2b268.png) 
+![image](https://user-images.githubusercontent.com/63140503/129513433-b4e99148-c3f7-4cad-9df4-a23a43205247.png)
 
-
-![image](https://user-images.githubusercontent.com/63140503/129513235-20122c32-5c84-4b8f-8400-e74f9e437757.png)
+![image](https://user-images.githubusercontent.com/63140503/129513395-7b940775-9fb2-4542-aadc-5eb98f4590a2.png)
 
 
 
